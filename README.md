@@ -8,7 +8,7 @@ Portfolio Tracker is a stock trading platform simulator where users can search, 
  
 # Features 
 
-On the top of the home page, there is a donut chart that displays all of the user's current stocks holdings and the total value of those stocks. Since the colors are randomized, they will change everytime you refresh the page. 
+On the top of the home page, there is a donut chart that displays all of the user's current stocks holdings and the total value of those stocks. Since the colors are randomized, they will change every time you refresh the page. 
 ######
 There is also a line graph that tracks the total balance history. However, since looking at stock history is a premium feature for Finnhub API, we made an algorithm that increases or decreases the total balance each day randomly by 5%. 
 

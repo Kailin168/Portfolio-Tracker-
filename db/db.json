@@ -4,7 +4,7 @@
       "id": 1,
       "firstName": "john",
       "lasttName": "doe",
-      "cashBalance": 73970.75,
+      "cashBalance": 128452.13999999998,
       "address": "123 ",
       "phone": "2134",
       "emailAddress": "abc@gmail.com"
@@ -14,25 +14,25 @@
     {
       "symbol": "AAPL",
       "companyName": "Apple Inc.",
-      "shares": 15,
+      "shares": 1,
       "id": 1
     },
     {
       "symbol": "AMZN",
       "companyName": "Amazon.com, Inc.",
-      "shares": 15,
+      "shares": 4,
       "id": 2
     },
     {
       "symbol": "NFLX",
       "companyName": "Netflix, Inc.",
-      "shares": 20,
+      "shares": 2,
       "id": 3
     },
     {
       "symbol": "MSFT",
       "companyName": "Microsoft Corporation",
-      "shares": 6,
+      "shares": 3,
       "id": 4
     }
   ],
@@ -101,6 +101,11 @@
       "symbol": "MSFT",
       "companyName": "Microsoft Corporation",
       "id": 14
+    },
+    {
+      "symbol": "ABNB",
+      "companyName": "Airbnb, Inc.",
+      "id": 15
     }
   ],
   "topList": [
